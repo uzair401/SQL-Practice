@@ -1,0 +1,2 @@
+The audio aura of the listener,
+based on the top 100 songs, can be characterized by analyzing the average energy, valence, and danceability of those songs.
